@@ -1,1 +1,1 @@
-# Baikal-Magazine-Layout-
+# Baikal Magazine Layout fixed
